@@ -1,0 +1,5 @@
+https://hackersandslackers.com/flask-routes/
+https://www.youtube.com/watch?v=MwZwr5Tvyxo
+https://hackersandslackers.com/your-first-flask-application/
+https://stackoverflow.com/questions/31252791/flask-importerror-no-module-named-flask
+https://www.digitalocean.com/community/tutorials/how-to-use-templates-in-a-flask-application
